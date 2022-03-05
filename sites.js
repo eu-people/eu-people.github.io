@@ -138,4 +138,5 @@ let sites = [
   '#https://www.uralkali.com/ru/',
   '#https://www.eurosib.ru/',
   'https://tektorg.ru/',
+  'https://ukraineworld.info/',
 ]
