@@ -136,6 +136,6 @@ let sites = [
   '#https://ya.ru/',
   '#https://www.polymetalinternational.com/ru/',
   '#https://www.uralkali.com/ru/',
-  '#https://www.eurosib.ru/'
+  '#https://www.eurosib.ru/',
   'https://tektorg.ru/',
 ]
